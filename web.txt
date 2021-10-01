@@ -1,0 +1,8 @@
+The Internet works becuase we have computputers connected to computers and so on (routers are min computers)
+-the internet is like the railroad system that connects people or things from far away and has stations(router) that send them to the right destination(server, clients)
+
+there are servers (pretty much computers) and Servers are computers that store webpages, sites, or apps. 
+When a client device wants to access a webpage, a copy of the webpage is downloaded from the server onto the client machine to be displayed in the user's web browser.
+
+inital request (link clciked URL visted), request reaches app server, app code finisheds execution, browser receives HTML, begins processing
+HTML processing finishes, Page rendered in browser. (nvm what really happends is the page yeets into reality)
